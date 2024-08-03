@@ -17,7 +17,7 @@ function App() {
         />
       </div>
      
-        <a className='btn btn-outline-secondary mt-3' href="app-release.apk" download>Download Plantview</a>
+        <a className='btn btn-outline-secondary mt-3' href="https://drive.google.com/file/d/1BEnGuMXeodjXEtH0kMoxCcM2cCv5kHAI/view?usp=sharing" target='_blank' download>Download Plantview</a>
     </div>
   );
 }
